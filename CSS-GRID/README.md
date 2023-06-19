@@ -45,3 +45,5 @@ Cria automaticamente um total de colunas que acomode itens com no mínimo 100px 
 grid-template-columns: repeat(auto-fit, minmax(100px, auto));
 ````
 ___
+
+## Secundário elemento - grid-template-rows
